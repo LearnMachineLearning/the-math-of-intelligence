@@ -12,4 +12,6 @@ I have divided the resources into categories.
 
 ## Why Mathematics is important in Machine Learning?
 
-[Mathematics of Machine Learning](https://www.youtube.com/watch?v=8onB7rPG4Pk)
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=8onB7rPG4Pk">
+</iframe>
