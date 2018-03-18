@@ -37,4 +37,8 @@ This list is meant to serve both High Schoolers and those who feel their math is
 
 ##### MOOCs/Videos:
 
-- [ ] [Essence of Linear Algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab): This is definitely the best Youtube playlist on Youtube.
+- [ ] [Essence of Linear Algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab): This is definitely the best Linear Algebra playlist on Youtube.
+
+- [ ] [Linear Algebra - Khan Academy](https://www.khanacademy.org/math/linear-algebra): For those Khan Academy fanboys and to get your up and running with Linear Algebra.
+
+- [ ] [Linear Algebra - Gilbert Strang (MIT OCW)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/): The famous Linear Algebra course taught by Gilbert Strang. This is probably the best Linear Algebra MOOC out there.
