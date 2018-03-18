@@ -78,4 +78,4 @@ I won't recommend reading more books about Calculus since our focus is to learn 
 If you feel pretty confident with the Math of Intelligence, here is a Research Paper for you:
 
 - [ ] [The Matrix Calculus you need for Deep Learning - Terence Parr and Jeremy Howard](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html)
-- [ ][(Printable Version)](https://arxiv.org/abs/1802.01528)
+- [ ] [(Printable Version)](https://arxiv.org/abs/1802.01528)
