@@ -25,7 +25,7 @@ This list is meant to serve both High Schoolers and those who feel their math is
     - [ ] [Algebra I - Khan Academy](https://www.khanacademy.org/math/algebra)
     - [ ] [Algebra II - Khan Academy](https://www.khanacademy.org/math/algebra2)
 
-#### Linear Algebra for High Schooler:
+#### Linear Algebra:
 
 ##### Books:
 
@@ -77,5 +77,5 @@ I won't recommend reading more books about Calculus since our focus is to learn 
 
 If you feel pretty confident with the Math of Intelligence, here is a Research Paper for you:
 
-- [ ] [The Matrix Calculus you need for Deep Learning - Terence Parr and Jeremy Howard](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html) 
+- [ ] [The Matrix Calculus you need for Deep Learning - Terence Parr and Jeremy Howard](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html)
 - [ ][(Printable Version)](https://arxiv.org/abs/1802.01528)
