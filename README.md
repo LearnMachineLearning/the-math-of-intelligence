@@ -42,3 +42,40 @@ This list is meant to serve both High Schoolers and those who feel their math is
 - [ ] [Linear Algebra - Khan Academy](https://www.khanacademy.org/math/linear-algebra): For those Khan Academy fanboys and to get your up and running with Linear Algebra.
 
 - [ ] [Linear Algebra - Gilbert Strang (MIT OCW)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/): The famous Linear Algebra course taught by Gilbert Strang. This is probably the best Linear Algebra MOOC out there.
+
+#### Calculus:
+
+##### Books:
+
+- [ ] [The Manga Guide to Calculus](https://nostarch.com/mg_calculus.htm): Again, to gently introduce you to Calculus, this book teaches Calculus in a very funny and comic way.
+
+I won't recommend reading more books about Calculus since our focus is to learn a very specific part of Calculus which is required for Machine Learning, we don't want to gain PhD level understanding of Calculus.
+
+##### MOOCs/Videos:
+
+- [ ] [Essence of Calculus - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr): Grant Sanderson has a really good playlist to make calculus feel like something that you yourself could have discovered.
+
+- [ ] [Differential Calculus - Khan Academy](https://www.khanacademy.org/math/differential-calculus)
+
+- [ ] [Multivariable Calculus - Khan Academy](https://www.khanacademy.org/math/multivariable-calculus)
+
+#### Statistics & Probability:
+
+##### MOOCs:
+
+- [ ] [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)
+
+- [ ] [Introduction to Probability - The Science of Uncertainty by MIT](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
+
+##### Books:
+
+- [ ] [Think Stats - Allen Downey](http://shop.oreilly.com/product/0636920034094.do)
+
+- [ ] [The Manga Guide to Statistics](https://nostarch.com/mg_statistics.htm)
+
+---
+
+If you feel pretty confident with the Math of Intelligence, here is a Research Paper for you:
+
+- [ ] [The Matrix Calculus you need for Deep Learning - Terence Parr and Jeremy Howard](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html) 
+- [ ][(Printable Version)](https://arxiv.org/abs/1802.01528)
