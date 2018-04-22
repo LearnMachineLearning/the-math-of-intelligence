@@ -79,3 +79,7 @@ If you feel pretty confident with the Math of Intelligence, here is a Research P
 
 - [ ] [The Matrix Calculus you need for Deep Learning - Terence Parr and Jeremy Howard](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html)
 - [ ] [(Printable Version)](https://arxiv.org/abs/1802.01528)
+
+---
+
+**Note:** If you are into Machine Learning and AI, and you want to help build the *Math of AI* curriculum, then you are most welcomed. Find me on [Twitter](https://twitter.com/theAIJedi) to get started on it or simply make a pull request.
