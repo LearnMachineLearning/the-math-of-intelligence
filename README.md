@@ -82,4 +82,6 @@ If you feel pretty confident with the Math of Intelligence, here is a Research P
 
 ---
 
+We have also created a [Trello board](https://trello.com/b/6KXvxxbd/the-math-of-intelligence) version of this curriculum where we have divided this curriculum on Weekly basis.
+
 **Note:** If you are into Machine Learning and AI, and you want to help build the *Math of AI* curriculum, then you are most welcomed. Find me on [Twitter](https://twitter.com/theAIJedi) to get started on it or simply make a pull request.
